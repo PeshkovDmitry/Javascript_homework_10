@@ -1,4 +1,4 @@
-const dataJSON = 
+const dataJSON =
 [
     {
         "id": 1,
